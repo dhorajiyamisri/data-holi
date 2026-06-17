@@ -2,19 +2,25 @@
 
 # 🏦 Customer Credit Risk Data Preprocessing & Feature Engineering
 
+## 🛠️ Tech Stack
+
 <p align="center">
 
-<a href="./holistic data preparer.ipynb">
-<img src="https://img.shields.io/badge/📓_Notebook-Open-orange?style=for-the-badge">
-</a>
+<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<a href="./customer_credit_risk_report.html">
-<img src="https://img.shields.io/badge/📊_Report-View-blue?style=for-the-badge">
-</a>
+<img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<a href="./final_cleaned_transformed_dataset.csv">
-<img src="https://img.shields.io/badge/📂_Dataset-Download-success?style=for-the-badge">
-</a>
+<img src="https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Scikit--Learn-ML_Preprocessing-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 </p>
 
