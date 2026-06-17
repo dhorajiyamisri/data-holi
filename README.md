@@ -63,7 +63,7 @@ The project follows industry-standard preprocessing techniques used in real-worl
 | 📄 Theory PDF       | theory output.pdf                     |
 | 🗄️ SQL Database    | loan.db                               |
 | 📋 JSON Metadata    | customer_metadata.json                |
-|    output pdf   |   output section.pdf                    |
+|  🎯  output pdf   |   output section.pdf                    |
 
 ---
 
