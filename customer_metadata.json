@@ -1,0 +1,27 @@
+[
+    {
+        "customer_id": 1,
+        "gender": "Male",
+        "region": "North"
+    },
+    {
+        "customer_id": 2,
+        "gender": "Female",
+        "region": "South"
+    },
+    {
+        "customer_id": 3,
+        "gender": "Male",
+        "region": "East"
+    },
+    {
+        "customer_id": 4,
+        "gender": "Female",
+        "region": "West"
+    },
+    {
+        "customer_id": 5,
+        "gender": "Male",
+        "region": "North"
+    }
+]
