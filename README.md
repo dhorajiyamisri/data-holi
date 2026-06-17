@@ -30,11 +30,16 @@
 
 ---
 
-# 🎥 Project Demonstration
+#🎬 Project Showcase
 
-<p align="center">
+<div align="center">
+
+### 🚀 Complete Project Demonstration
+
 <img src="screenshots/project_demo.gif" width="100%">
-</p>
+<img width="1088" height="800" alt="Recording 2026-06-17 125646" src="https://github.com/user-attachments/assets/4c61cd89-7570-4206-b6cd-f7871c755f91" />
+
+</div>
 
 > 📌 Replace `project_demo.gif` with your project demo GIF.
 
@@ -178,18 +183,6 @@ The project follows industry-standard preprocessing techniques used in real-worl
 | ML Ready Dataset       | ✅      |
 
 ---
-# 🎬 Project Showcase
-
-<div align="center">
-
-### 🚀 Complete Project Demonstration
-
-<img src="screenshots/project_demo.gif" width="100%">
-<img width="1088" height="800" alt="Recording 2026-06-17 125646" src="https://github.com/user-attachments/assets/4c61cd89-7570-4206-b6cd-f7871c755f91" />
-
-</div>
-
-
 
 # 🛠️ Technology Stack
 
