@@ -57,12 +57,13 @@ The project follows industry-standard preprocessing techniques used in real-worl
 
 | Resource            | Description                           |
 | ------------------- | ------------------------------------- |
-| 📓 Main Notebook    | holistic data preparer.ipynb          |
+| 📓 Main Notebook    | data preparer.ipynb          |
 | 📊 Profiling Report | customer_credit_risk_report.html      |
 | 📁 Final Dataset    | final_cleaned_transformed_dataset.csv |
 | 📄 Theory PDF       | theory output.pdf                     |
 | 🗄️ SQL Database    | loan.db                               |
 | 📋 JSON Metadata    | customer_metadata.json                |
+|    output pdf   |   output section.pdf                    |
 
 ---
 
