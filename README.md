@@ -232,23 +232,11 @@ Customer-Credit-Risk-Project
 
 ---
 
-# 🎯 Learning Outcomes
+<p align="center">
 
-After completing this project:
+⭐ Data Cleaning • 📊 Feature Engineering • 📏 Feature Scaling • 🤖 ML Ready Dataset
 
-✅ Understand Data Preprocessing Pipeline
-
-✅ Learn Missing Value Imputation Techniques
-
-✅ Perform Outlier Detection & Treatment
-
-✅ Apply Feature Engineering Methods
-
-✅ Scale and Transform Numerical Features
-
-✅ Build Machine Learning Ready Datasets
-
----
+</p>
 
 # 👨‍💻 Author
 
