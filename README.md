@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/username/repo?style=for-the-badge&color=yellow"/>
-  <img src="https://img.shields.io/github/forks/username/repo?style=for-the-badge&color=blue"/>
-  <img src="https://img.shields.io/github/issues/username/repo?style=for-the-badge&color=red"/>
+  <img src="https://img.shields.io/github/stars/dhorajiyamisri/data-holi?style=for-the-badge&color=yellow"/>
+  <img src="https://img.shields.io/github/forks/dhorajiyamisri/data-holi?style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/github/issues/dhorajiyamisri/data-holi?style=for-the-badge&color=red"/>
 </p>
 
 <p align="center">
