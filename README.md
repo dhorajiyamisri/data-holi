@@ -5,15 +5,15 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Project-Data%20Holi-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400" alt="Animated Demo GIF"/>
+</p>
 <p align="center">
 
 <img src="https://img.shields.io/badge/Scikit--Learn-ML_Preprocessing-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
