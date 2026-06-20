@@ -8,7 +8,12 @@
   <img src="https://img.shields.io/badge/Project-Data%20Holi-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/username/repo?style=for-the-badge&color=yellow"/>
+  <img src="https://img.shields.io/github/forks/username/repo?style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/github/issues/username/repo?style=for-the-badge&color=red"/>
 </p>
 
 <p align="center">
@@ -229,7 +234,8 @@ Customer-Credit-Risk-Project
 
 # 👨‍💻 Author
 
-## Misari Dhorajiya
+<img src="https://img.shields.io/github/stars/dhorajiyamisri/data-holi?style=for-the-badge&color=yellow"/>
+
 
 ### 📊 Data Science Enthusiast | 🐍 Python Developer | 🤖 Machine Learning Learner
 
